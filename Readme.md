@@ -15,4 +15,7 @@ LAUNCH
 
 4. Run webpage by clicking on mozilla firfox or any other browser installed on your system.
 
+![Screenshot_2020-10-23 Random Function](https://user-images.githubusercontent.com/59982887/96999413-05cd8a00-152d-11eb-8123-6ae43dd2f9c1.png)
+![rand 2](https://user-images.githubusercontent.com/59982887/96999425-0b2ad480-152d-11eb-8fde-b5c642c4d867.jpg)
+![rand 3](https://user-images.githubusercontent.com/59982887/96999438-0e25c500-152d-11eb-8265-fa363542d749.jpg)
 
